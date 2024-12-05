@@ -1,0 +1,11 @@
+// Game defines
+#define JOYSTICK_X_PIN 27
+#define JOYSTICK_Y_PIN 26
+#define DISPLAY_HEIGHT 64
+#define DISPLAY_WIDTH 128
+#define YELLOW_AREA_HEIGHT 16
+#define SQUARE_SIZE 7
+#define PIXEL_RADIUS 1.5
+#define GAME_NAME "PixelEater"
+#define AVATAR_START_X 0
+#define AVATAR_START_Y 17
